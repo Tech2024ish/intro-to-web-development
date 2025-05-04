@@ -1,3 +1,10 @@
+.navbar{
+  font-size: large;
+  font-weight: 900;
+  width: 200px;
+  height: auto;
+  color: rgb(0, 0, 255);
+}
 .hero {
   background-image: url('/images/hero.png');
   height: 500px;
