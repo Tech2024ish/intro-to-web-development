@@ -1,16 +1,19 @@
-/* Removes unwanted styling from the page */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  border: none;
-  max-width: 100%;
+.hero {
+  background-image: url('/images/hero.png');
+  height: 500px;
+  padding-top: 219px;
+  padding-left: 103px;
 }
 
-/* Write your code below this */
-.navbar{
-  padding: 26px, 60px;
+h1 {
+  font-size: 36px;
+  margin-bottom: 15px;
+}
+
+button {
+  margin-top: 35px;
+  padding: 12px 30px;
+  background: #52647E;
+  color: white;
+  border-radius: 10px;
 }
