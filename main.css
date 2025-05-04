@@ -5,6 +5,9 @@
   height: auto;
   color: rgb(0, 0, 255);
 }
+#welcome{
+  font-size: 2em;
+}
 .hero {
   background-image: url('/images/hero.png');
   height: 500px;
@@ -62,4 +65,10 @@ h3 {
   font-size: 20px;
   margin-bottom: 12px;
   color: black;
+}
+footer {
+  background: #333232;
+  text-align: center;
+  color: white;
+  padding: 30px;
 }
