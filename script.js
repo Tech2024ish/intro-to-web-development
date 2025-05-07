@@ -9,7 +9,7 @@ changeTitle(newTitle);
 
 var navBar=document.getElementById("myNav");
 var myElement=document.createElement("h1");
-var myText=document.createTextNode("This is Harambee Morning Course");
+var myText=document.createTextNode("Hi there! I'm Goslish, a Computer and Web developer");
 
 //adding the content i careated to my html document
 myElement.appendChild(myText);
